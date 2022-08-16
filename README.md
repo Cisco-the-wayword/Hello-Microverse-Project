@@ -2,8 +2,8 @@
 # Hello Microverse
 
 # Built with:
-Html,
-Css.
+HTML,
+CSS.
 
 # Technologies used:
 Github,
