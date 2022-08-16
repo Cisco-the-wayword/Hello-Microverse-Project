@@ -1,10 +1,10 @@
 # Hello-Microverse-Project
-# Hello Microverse
+ Hello Microverse
 
-# Built with:
+ Built with:
 HTML,
 CSS.
 
-# Technologies used:
+ Technologies used:
 Github,
 Vscode.
